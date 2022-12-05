@@ -1,5 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm mitali sinha</h1>
+<p align="middle" width="100%"> <img width="100%" height="400px"src="https://camo.githubusercontent.com/591bf3579e2484f58aee03bd9ed1bb9a12aab4a271770dfcd5fd3eddca3f0b86/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f3837352f302a4647443642557a7a5a7331564a4c75592e676966" alt="suvam778781" /> </p>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img alt='' src='https://dribbble.com/shots/2413754-Coding' width:'400' align:'right'/>
 
