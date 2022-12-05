@@ -1,8 +1,10 @@
 
 <h1 align="center">Hi 👋, I'm mitali sinha</h1>
-<p align="middle" width="100%"> <img width="100%" height="400px"src="https://camo.githubusercontent.com/591bf3579e2484f58aee03bd9ed1bb9a12aab4a271770dfcd5fd3eddca3f0b86/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f3837352f302a4647443642557a7a5a7331564a4c75592e676966" alt="suvam778781" /> </p>
+<!-- <p align="middle" width="100%"> <img width="100%" height="400px"src="https://camo.githubusercontent.com/591bf3579e2484f58aee03bd9ed1bb9a12aab4a271770dfcd5fd3eddca3f0b86/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f3837352f302a4647443642557a7a5a7331564a4c75592e676966" alt="suvam778781" /> </p> -->
 <h3 align="center">A passionate frontend developer from India</h3>
 <img alt='' src='https://dribbble.com/shots/2413754-Coding' width:'400' align:'right'/>
+
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/16/fe/7e/16fe7e7fb6eebb3087b6dc418748ee56.gif" />
 
 - 🔭 I’m currently working on **booking.com**
 
@@ -27,4 +29,5 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=mira713&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mira713&theme=vue-dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mira713&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mira713&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+ -->
