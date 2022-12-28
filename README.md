@@ -6,7 +6,7 @@
 
 <!-- <img align="right" alt="Coding" width="400" src="https://media.tenor.com/0GcbKtVSr8sAAAAM/geek-laptop.gif" />
  -->
- <img align="right" alt="Coding" width="400" src="[https://media.tenor.com/0GcbKtVSr8sAAAAM/geek-laptop.gif](https://www.animefeminist.com/wp-content/uploads/2020/04/type-computer-squid-girl.gif)" />
+ <img align="right" alt="Coding" width="400" src="https://www.animefeminist.com/wp-content/uploads/2020/04/type-computer-squid-girl.gif" />
 
 - 🔭 I’m currently working on **booking.com**
 
