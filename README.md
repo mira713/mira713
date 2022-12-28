@@ -4,7 +4,9 @@
 <h2 align="center">A passionate frontend developer from India</h2>
 <img alt='' src='https://dribbble.com/shots/2413754-Coding' width:'400' align:'right'/>
 
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/0GcbKtVSr8sAAAAM/geek-laptop.gif" />
+<!-- <img align="right" alt="Coding" width="400" src="https://media.tenor.com/0GcbKtVSr8sAAAAM/geek-laptop.gif" />
+ -->
+ <img align="right" alt="Coding" width="400" src="https://media.tenor.com/0GcbKtVSr8sAAAAM/geek-laptop.gif" />
 
 - 🔭 I’m currently working on **booking.com**
 
