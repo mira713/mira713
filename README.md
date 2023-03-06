@@ -30,11 +30,6 @@
 
 <div align="center" >
 
- <a href="https://github.com/saurabhpawar1997">
-    <img alt="mira713's Activity Graph last month" src="https://github-readme-activity-graph.cyclic.app/graph/?username=mira713&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true&theme=transparent" />
-    <img alt="mira713's Activity Graph last month" src="https://github-readme-activity-graph.cyclic.app/graph/?username=mira713&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true&theme=github_dark" />
-  </a>
-
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=mira713&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mira713jithstephen13&mira713theme=vue-dark&hide_border=false)<br/>
