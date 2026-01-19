@@ -4,7 +4,14 @@
 
 <h3 align="center">Frontend Developer | React • Redux • TypeScript</h3>
 
-<img align="right" alt="Coding" width="380" marginTop="20px" src="https://www.animefeminist.com/wp-content/uploads/2020/04/type-computer-squid-girl.gif" />
+<img
+  align="right"
+  alt="Coding"
+  width="380"
+  src="https://www.animefeminist.com/wp-content/uploads/2020/04/type-computer-squid-girl.gif"
+  style="margin-top:40px;"
+/>
+
 
 ---
 
@@ -48,12 +55,12 @@
 ### 📫 Connect With Me
 
 <p align="left">
-<a href="https://www.linkedin.com/in/mitali-sinha-183134203/" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
-</a>
-<a href="mailto:sinhamitali713@gmail.com" target="_blank">
-  <img src="https://img.icons8.com/color/48/000000/gmail-new.png" height="32" width="32" />
-</a>
+  <a href="https://www.linkedin.com/in/mitali-sinha-183134203/" target="_blank" style="margin-right:16px;">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+  </a>
+  <a href="mailto:sinhamitali713@gmail.com" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/gmail-new.png" height="32" width="32" />
+  </a>
 </p>
 
 ---
