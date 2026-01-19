@@ -4,61 +4,59 @@
 
 <h3 align="center">Frontend Developer | React • Redux • TypeScript</h3>
 
-<img
-  align="right"
-  alt="Coding"
-  width="380"
-  src="https://www.animefeminist.com/wp-content/uploads/2020/04/type-computer-squid-girl.gif"
-  style="margin-top:200px;"
-/>
-
-
 ---
 
 ### 👩‍💻 About Me
 
-* 💼 Frontend Developer with experience building **production-grade web applications**
-* 🏢 Former **Frontend Developer at Darby Telematics, Bengaluru**
-* 🎓 Ex **Instructional Associate at Masai School**
-* 🚀 Strong in **React, Redux, TypeScript, and scalable UI development**
-* 🧠 Passionate about clean UI, performance optimization, and real-world problem solving
+<img
+  align="right"
+  alt="Coding"
+  width="360"
+  src="https://www.animefeminist.com/wp-content/uploads/2020/04/type-computer-squid-girl.gif"
+/>
+
+- 💼 Frontend Developer with experience building **production-grade web applications**
+- 🏢 Former **Frontend Developer at Darby Telematics, Bengaluru**
+- 🎓 Ex **Instructional Associate at Masai School**
+- 🚀 Strong in **React, Redux, TypeScript, and scalable UI development**
+- 🧠 Passionate about clean UI, performance optimization, and real-world problem solving
+
+<br clear="right"/>
 
 ---
 
 ### 🛠️ Tech Stack
 
 **Languages**
-
-* JavaScript (ES6+), TypeScript, HTML5, CSS3
+- JavaScript (ES6+), TypeScript, HTML5, CSS3
 
 **Frameworks & Libraries**
-
-* React.js, Redux, Next.js
-* Ant Design, Chakra UI, PrimeReact, Tailwind CSS
+- React.js, Redux, Next.js  
+- Ant Design, Chakra UI, PrimeReact, Tailwind CSS
 
 **Tools & Platforms**
-
-* Git & GitHub
-* REST APIs, Postman
-* Node.js, Express.js, MongoDB (working knowledge)
+- Git & GitHub  
+- REST APIs, Postman  
+- Node.js, Express.js, MongoDB (working knowledge)
 
 ---
 
 ### 📌 What I’m Currently Doing
 
-* 🔭 Building and improving **real-world React applications**
-* 🌱 Deepening expertise in **advanced React patterns & performance**
-* 🤝 Open to collaborating on **frontend & UI-focused projects**
+- 🔭 Building and improving **real-world React applications**
+- 🌱 Deepening expertise in **advanced React patterns & performance**
+- 🤝 Open to collaborating on **frontend & UI-focused projects**
 
 ---
 
 ### 📫 Connect With Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/mitali-sinha-183134203/" target="_blank" style="margin-right:20px;">
+  <a href="https://www.linkedin.com/in/mitali-sinha-183134203/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
   </a>
-  <a href="mailto:sinhamitali713@gmail.com" target="_blank" style="margin-top:20px;">
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:sinhamitali713@gmail.com" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/gmail-new.png" height="32" width="32" />
   </a>
 </p>
@@ -78,4 +76,4 @@
 
 ---
 
-⭐ *“Building clean, scalable, and user-focused interfaces.”*
+⭐ *Building clean, scalable, and user-focused interfaces.*
