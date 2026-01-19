@@ -52,11 +52,11 @@
 
 <p align="left">
   <a href="https://www.linkedin.com/in/mitali-sinha-183134203/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" align="middle"/>
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="mailto:sinhamitali713@gmail.com" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/gmail-new.png" height="32" width="32" />
+    <img src="https://img.icons8.com/color/48/000000/gmail-new.png" height="32" width="32" align="middle"/>
   </a>
 </p>
 
