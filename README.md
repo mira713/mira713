@@ -16,9 +16,12 @@
 
 - 💼 Frontend Developer with experience building **production-grade web applications**
 - 🏢 Former **Frontend Developer at Darby Telematics, Bengaluru**
-- 🎓 Building responsive, modern UIs with **Chakra UI, Tailwind CSS & clean design**.
+- 🎨 Building responsive, modern UIs with **Chakra UI, Tailwind CSS & clean design**.
 - 🚀 Strong in **React, Redux, TypeScript, and scalable UI development**
 - 🧠 Passionate about clean UI, performance optimization, and real-world problem solving
+- 🚀 Strong in React, Redux, TypeScript, and scalable UI development
+- 🤝 Enjoy collaborating in teams and mentoring juniors to build better web experiences
+- 💡 Always learning new technologies and experimenting with innovative UI/UX solutions
 
 <br clear="right"/>
 
