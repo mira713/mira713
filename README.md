@@ -7,7 +7,6 @@
 ---
 
 ### 👩‍💻 About Me
-<br/><br/><br/><br/><br/><br/><br/>
 <img
   align="right"
   alt="Coding"
