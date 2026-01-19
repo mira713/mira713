@@ -7,7 +7,7 @@
 ---
 
 ### 👩‍💻 About Me
-
+<br/><br/><br/><br/><br/><br/><br/>
 <img
   align="right"
   alt="Coding"
@@ -17,7 +17,7 @@
 
 - 💼 Frontend Developer with experience building **production-grade web applications**
 - 🏢 Former **Frontend Developer at Darby Telematics, Bengaluru**
-- 🎓 Ex **Instructional Associate at Masai School**
+- 🎓 Building responsive, modern UIs with **Chakra UI, Tailwind CSS & clean design**.
 - 🚀 Strong in **React, Redux, TypeScript, and scalable UI development**
 - 🧠 Passionate about clean UI, performance optimization, and real-world problem solving
 
