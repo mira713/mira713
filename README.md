@@ -4,7 +4,7 @@
 
 <h3 align="center">Frontend Developer | React • Redux • TypeScript</h3>
 
-<img align="right" alt="Coding" width="380" src="https://www.animefeminist.com/wp-content/uploads/2020/04/type-computer-squid-girl.gif" />
+<img align="right" alt="Coding" width="380" marginTop="20px" src="https://www.animefeminist.com/wp-content/uploads/2020/04/type-computer-squid-girl.gif" />
 
 ---
 
